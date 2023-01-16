@@ -9,4 +9,5 @@ Projects that I have completed while going through the FreeCodeCamp Curriculums.
    3. [Build A Product Landing Page](https://github.com/aswingt65/freecodecamp-projects/tree/main/Responsive-Web-Design-Projects/Build%20a%20Product%20Landing%20Page)
    4. [Build A Technical Documentation Page](https://github.com/aswingt65/freecodecamp-projects/tree/main/Responsive-Web-Design-Projects/Build%20a%20Technical%20Documentation%20Page)
    5. [Build A Personal Portfolio Webpage](https://github.com/aswingt65/freecodecamp-projects/tree/main/Responsive-Web-Design-Projects/Build%20a%20Personal%20Portfolio%20Webpage)
-   <!-- ![Alt text](/certifications/responsive-web-design.png?raw=true "Responsive Web Design Certification") -->
+   
+   ![Alt text](/Certifications/web-responsive-design.png?raw=true "Responsive Web Design Certification") -->
