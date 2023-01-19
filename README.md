@@ -2,6 +2,8 @@
 Projects that I have completed while going through the FreeCodeCamp Curriculums.
 [Donate to freeCodeCamp](https://donate.freecodecamp.org/).
 
+My FreeCodeCamp Profile - [aswingt65](https://www.freecodecamp.org/aswingt65)
+
 
 ## Responsive Web Design Projects
    1. [Build A Tribute Page](https://github.com/aswingt65/freecodecamp-projects/tree/main/Responsive-Web-Design-Projects/Build%20a%20Tribute%20Page)
