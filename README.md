@@ -23,3 +23,11 @@ My FreeCodeCamp Profile - [aswingt65](https://www.freecodecamp.org/aswingt65)
    5. [Cash Register](https://github.com/aswingt65/freecodecamp-projects/blob/main/JavaScript-Algorithms-and-Data-Structures-Projects/Cash_Register.js)
    
    ![Alt text](/Certifications/javascript-algorithms-and-data-structures.png?raw=true "JavaScript Algorithms and Data Structures Certification")
+   
+   
+## Front End Development Libraries Projects
+   1. [Build a Random Quote Machine](https://github.com/aswingt65/FreeCodeCamp-Projects/tree/main/Front-End-Development-Libraries-Projects/Build%20a%20Random%20Quote%20Machine)
+   2. [Build a Markdown Previewer](https://github.com/aswingt65/FreeCodeCamp-Projects/tree/main/Front-End-Development-Libraries-Projects/Build%20a%20Markdown%20Previewer)
+   3. [Build a Drum Machine] (https://github.com/aswingt65/FreeCodeCamp-Projects/tree/main/Front-End-Development-Libraries-Projects/Build%20a%20Drum%20Machine)
+   4. [Build a JavaScript Calculator](https://github.com/aswingt65/FreeCodeCamp-Projects/tree/main/Front-End-Development-Libraries-Projects/Build%20a%20JavaScript%20Calculator)
+   5. [Build a 25 + 5 Clock](https://github.com/aswingt65/FreeCodeCamp-Projects/tree/main/Front-End-Development-Libraries-Projects/Build%20a%2025%20%2B%205%20Clock)
