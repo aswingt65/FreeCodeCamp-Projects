@@ -33,3 +33,14 @@ My FreeCodeCamp Profile - [aswingt65](https://www.freecodecamp.org/aswingt65)
    5. [Build a 25 + 5 Clock](https://github.com/aswingt65/FreeCodeCamp-Projects/tree/main/Front-End-Development-Libraries-Projects/Build%20a%2025%20%2B%205%20Clock)
 
    ![Alt text](/Certifications/front-end-development-libraries.png?raw=true "Front End Development Libraries Certification")
+
+
+   ## Back End Development and APIs
+   1. [Build A Timestamp Microservice](https://replit.com/@AswinGeorge/boilerplate-project-timestamp)
+   2. [Build A Request Header Parser Microservice](https://replit.com/@AswinGeorge/boilerplate-project-headerparser)
+   3. [Build A URL Shortener Microservice](https://replit.com/@AswinGeorge/boilerplate-project-urlshortener)
+   4. [Build A Exercise Tracker](https://replit.com/@AswinGeorge/boilerplate-project-exercisetracker)
+   5. [Build A File Metadata Microservice](https://replit.com/@AswinGeorge/boilerplate-project-filemetadata)
+   
+   ![Alt text](/Certifications/back-end-development-and-APIs.png?raw=true "Back End Development and APIs Certification")
+
